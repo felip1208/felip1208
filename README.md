@@ -1,6 +1,6 @@
 <h1> Opa tudo bem? Meu nome é Felipe Andrade. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Desenvolvedor Front End iniciante 
+- 🔥 Futuro Desenvolvedor Front End
 - 🔭 Faço Curso Técnico no Colégio Joseense
 
 <div align="center">
