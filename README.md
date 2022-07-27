@@ -1,6 +1,6 @@
 ## Opa tudo bem? Meu nome é Felipe Andrade. 🎸 
 
-- 🔥 Futuro Desenvolvedor Front End
+- 🔥 Futuro Desenvolvedor Full Stack
 - 🔭 Faço Curso Técnico no Colégio Joseense
 
 <div align="center">
